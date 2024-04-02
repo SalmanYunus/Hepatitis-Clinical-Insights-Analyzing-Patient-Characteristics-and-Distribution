@@ -22,3 +22,5 @@ Dataset provides information about patients diagnosed with hepatitis,potentially
 13. Evaluate the effectiveness of different treatment combinations (steroid and antiviral) onpatient outcomes within specific subgroups defined by age, gender, or symptom profiles.  
 14. Identify patient subgroups with high-risk profiles for targeted interventions andpreventative measures.  
 15. Evaluate the effectiveness of different treatment combinations on patient outcomes within specific subgroups.
+
+[Complete Project Report with Demonstration](https://drive.google.com/file/d/1VbtnOr1wocTsSGMitSehgug2rd3Qk1UF/view?usp=sharing)
