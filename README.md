@@ -7,7 +7,8 @@ Hepatitis is a general term for inflammation of the liver, which can be caused b
 Dataset provides information about patients diagnosed with hepatitis,potentially offering insights into the disease's characteristics and risk factors. The datasetcomprises 20 attributes, all of which are numerical or float values. Each attribute represents aspecific aspect of a patient's diagnosis and medical history. Understanding the data types andmeaning behind each attribute is crucial for effectively analyzing the dataset and drawingmeaningful conclusions.
 
 ### Data Analysis performed on the Hepatitis dataset:
-1.Visualization the distribution of patients across three different Age groups. \b
+1.Visualization the distribution of patients across three different Age groups.  
+
 2.Overall proportion of patients who Survived vs Died.
 3.Relationship between Age and Patient outcomes in the Hepatitis data.
 4.Distribution of patient outcomes ("Alive" vs. "Dead") across genders.
